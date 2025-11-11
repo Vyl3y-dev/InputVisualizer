@@ -1,7 +1,6 @@
 package main
 
 import (
-	//"image/color"
 	//"math/rand"
 	"fmt"
 	"image/color"
